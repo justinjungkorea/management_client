@@ -120,7 +120,7 @@ class App extends Component{
   }
 
   callApi = async () => {
-    const response = await fetch('/api/customers');
+    const response = await fetch('http://management.cafe24app.com/api/customers');
     const body = await response.json();
     return body;
   }

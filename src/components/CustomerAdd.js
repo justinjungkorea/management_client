@@ -59,7 +59,7 @@ class CustomerAdd extends React.Component{
     }
 
     addCustomer = () => {
-        const url = '/api/customers';
+        const url = 'http://management.cafe24app.com/api/customers';
         const formData = new FormData();
 
         formData.append('image', this.state.file)
