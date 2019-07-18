@@ -28,11 +28,11 @@ class CustomerDelete extends React.Component {
     }
 
     deleteCustomer(id){
-        const url = "http://http://58.225.16.216:5000/api/customers/" + id;
+        const url = "/api/customers/" + id;
         fetch(url, {
             method: 'DELETE'
         });
-        this.props.stateRefresh();
+        setTimeout(this.props.stateRefresh,50);
     }
 
     render(){
