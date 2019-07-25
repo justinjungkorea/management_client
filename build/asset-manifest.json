@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/management_client/static/css/main.98e098cc.chunk.css",
-    "main.js": "/management_client/static/js/main.98d9d92a.chunk.js",
-    "main.js.map": "/management_client/static/js/main.98d9d92a.chunk.js.map",
+    "main.js": "/management_client/static/js/main.0c31bc21.chunk.js",
+    "main.js.map": "/management_client/static/js/main.0c31bc21.chunk.js.map",
     "runtime~main.js": "/management_client/static/js/runtime~main.58600def.js",
     "runtime~main.js.map": "/management_client/static/js/runtime~main.58600def.js.map",
     "static/js/2.549e07dd.chunk.js": "/management_client/static/js/2.549e07dd.chunk.js",
     "static/js/2.549e07dd.chunk.js.map": "/management_client/static/js/2.549e07dd.chunk.js.map",
     "index.html": "/management_client/index.html",
-    "precache-manifest.527f7e40882dee3b9a83015e252dc567.js": "/management_client/precache-manifest.527f7e40882dee3b9a83015e252dc567.js",
+    "precache-manifest.245c09af0197af8f3fe4a9bf56a67213.js": "/management_client/precache-manifest.245c09af0197af8f3fe4a9bf56a67213.js",
     "service-worker.js": "/management_client/service-worker.js",
     "static/css/main.98e098cc.chunk.css.map": "/management_client/static/css/main.98e098cc.chunk.css.map"
   }

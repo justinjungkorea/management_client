@@ -120,7 +120,7 @@ class App extends Component{
   }
 
   callApi = async () => {
-    const response = await fetch("http://58.225.16.216:5000/api/customers");
+    const response = await fetch("http://58.225.16.215:5000/api/customers");
     const body = await response.json();
     return body;
   }
