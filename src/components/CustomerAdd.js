@@ -59,7 +59,7 @@ class CustomerAdd extends React.Component{
     }
 
     addCustomer = () => {
-        const url = "http://58.225.16.215:5000/api/customers";
+        const url = "http://jungdw0624.codns.com:5000/api/customers";
         const formData = new FormData();
 
         formData.append('image', this.state.file)

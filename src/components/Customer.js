@@ -8,7 +8,7 @@ class Customer extends React.Component {
         return ( 
             <TableRow>
                 <TableCell>{this.props.id}</TableCell>
-                <TableCell><img src={'http://58.225.16.215:5000'+this.props.image} alt="profile" width="64"/></TableCell>
+                <TableCell><img src={'http://jungdw0624.codns.com:5000'+this.props.image} alt="profile" width="64"/></TableCell>
                 <TableCell>{this.props.name}</TableCell>
                 <TableCell>{this.props.gender}</TableCell>
                 <TableCell>{this.props.job}</TableCell>
